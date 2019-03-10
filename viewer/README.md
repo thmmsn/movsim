@@ -26,7 +26,7 @@ To build the MovSim viewer with Maven, type `mvn install` from the MovSim viewer
 
 The MovSim viewer can be started directly from the command-line. To see the MovSim options, type e.g.:
 
-    java -jar viewer/target/MovsimViewer-1.6.0-SNAPSHOT-jar-with-dependencies.jar -h
+    java -jar viewer/target/MovsimViewer-1.7.0-SNAPSHOT-jar-with-dependencies.jar -h
 
 
 Commercial use
